@@ -29,6 +29,8 @@
 この項では日本コミュニティによって作成された Nostr のツールやクライアントアプリケーションがまとめられています  
 公開されているものの多くは個人リポジトリで管理されており、作者によって維持されています  
 
+https://github.com/nostr-jp/awesome-nostr-japan
+
 ### 貢献したいとき
 
 作者の方はプライベートの時間を使って作っています。いつでも皆様の声、貢献をお待ちしています。  
@@ -60,26 +62,40 @@
 Wiki的なものです。気軽に編集されています。
 有志によって編集・維持管理・更新されています
 
+https://scrapbox.io/nostr/
+
 ### 勉強会
 
 定期的に開催されています。運営は四谷ラボのconnpassを使用しています。  
 また有志によって副音声会場もあり、皆様でわいわい見よう！という試みもあります。
 
+- 投稿ハッシュタグ：`#nostrstudy`
+- LT形式、5分1枠（複数申し込みあり）
+- だいたい二時間
 
+[四谷ラボ Connpass](https://428lab.connpass.com/)
+
+お手伝いさん随時募集中です。
+
+- スイッチャー：YouTube 配信の OBS 操作など
+- 司会・進行：登壇者へのご案内、マイク回しをお願いしております
+- 直近の振り返り：直近の Nostr の動きを振り返ります
 
 ### awesome-nostr-japan
 
 Nostrの日本人制作クライアントなどがまとめられています。
 
+https://github.com/nostr-jp/awesome-nostr-japan
+
 ### Nostr Idol Project
 
 Nostr の日本コミュニティで技術書・同人誌を出典しています。
 
-Webサイト：[Nostr Idol Project](https://nip-book.nostr-jp.org)
-販売サイト：[Booth]()
-技術書典：
+- [Webサイト](https://nip-book.nostr-jp.org/?github=true)
+- [Booth](https://nostr-jp.booth.pm/?github=true)
+- [技術書典](https://techbookfest.org/organization/nn7eXA7P7yENck0ep3PPBc)
 
 WEBサイトのリポジトリは以下。共同管理のため貢献者募集中
 
-
+https://github.com/nostr-jp/nostr-idol-project-website
 

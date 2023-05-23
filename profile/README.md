@@ -8,13 +8,9 @@
 - Nostr のコミュニティを盛り上げていきたい人
 - Nostr の技術に貢献したい人
 
-## Nostr とは
+## Nostr とは / Nostr を始めてみよう
 
-記述まち
-
-## Nostr をはじめてみよう
-
-記述まち
+https://github.com/nostr-jp/welcome-nostr
 
 ## Nostr やる上での注意
 
@@ -81,6 +77,10 @@ https://scrapbox.io/nostr/
 - 司会・進行：登壇者へのご案内、マイク回しをお願いしております
 - 直近の振り返り：直近の Nostr の動きを振り返ります
 
+管理者  
+@kojira [Nostr](https://nostx.shino3.net/npub1k0jrarx8um0lyw3nmysn50539ky4k8p7gfgzgrsvn8d7lccx3d0s38dczd)  
+@ShinoharaTa [Nostr](https://nostx.shino3.net/npub1l60d6h2uvdwa9yq0r7r2suhgrnsadcst6nsx2j03xwhxhu2cjyascejxe5)
+
 ### awesome-nostr-japan
 
 Nostrの日本人制作クライアントなどがまとめられています。
@@ -98,4 +98,9 @@ Nostr の日本コミュニティで技術書・同人誌を出典していま�
 WEBサイトのリポジトリは以下。共同管理のため貢献者募集中
 
 https://github.com/nostr-jp/nostr-idol-project-website
+
+## 最後に
+
+GitHub Nostr-jp の管理者：Shino3（しのさん）
+@ShinoharaTa [Nostr](https://nostx.shino3.net/npub1l60d6h2uvdwa9yq0r7r2suhgrnsadcst6nsx2j03xwhxhu2cjyascejxe5)
 

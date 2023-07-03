@@ -10,7 +10,9 @@
 
 ## Nostr とは / Nostr を始めてみよう
 
-https://github.com/nostr-jp/welcome-nostr
+Nostr にアカウントを作ったものの、次の一歩がわからない人のための情報を発信しています。
+
+https://welcome.nostr-jp.org
 
 ## Nostr やる上での注意
 
